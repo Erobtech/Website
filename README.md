@@ -1,2 +1,3 @@
 # Website
-Mother
+
+Project goal: Make a website
