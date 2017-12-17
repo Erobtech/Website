@@ -1,3 +1,3 @@
-# Website
+# The Gym
 
-Project goal: Make a website
+First real website project
